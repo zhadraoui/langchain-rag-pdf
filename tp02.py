@@ -1,3 +1,4 @@
+#streamlit run tp02.py
 import sys
 import os
 import streamlit as st
